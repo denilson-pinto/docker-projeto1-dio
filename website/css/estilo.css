@@ -1,0 +1,14 @@
+
+site{
+    width: 800px;
+    margin: 0px auto;
+    background-color: rgb(39, 28, 48);
+}
+
+h1, h2, h4, p{
+    text-align: center;
+}
+
+img{
+    text-align: center;
+}
